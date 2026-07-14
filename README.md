@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ===== HEADER BANNER ===== -->
-<img src="./assets/banner.svg" alt="Umar Anayat — Flutter Developer" width="100%" />
+<img src="./assets/banner.png" alt="Umar Anayat — Flutter Developer" width="100%" />
 
 <br/><br/>
 
