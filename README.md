@@ -84,8 +84,9 @@ I care about clean architecture, smooth UI, and code that stays readable months 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=UmarAnayat&show_icons=true&theme=transparent&hide_border=true&title_color=55AFD2&icon_color=55AFD2&text_color=c9d1d9&bg_color=0d1117&ring_color=55AFD2" alt="Umar Anayat GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAnayat&layout=compact&theme=transparent&hide_border=true&title_color=55AFD2&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmarAnayat&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarAnayat&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarAnayat&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <br/>
@@ -97,7 +98,13 @@ I care about clean architecture, smooth UI, and code that stays readable months 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmarAnayat&theme=onestar&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=8" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarAnayat&theme=github_dark" alt="Profile Details" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/55AFD2/UmarAnayat" alt="Umar Anayat Github Chart" width="100%" />
 </div>
 
 ---
@@ -122,11 +129,11 @@ I care about clean architecture, smooth UI, and code that stays readable months 
 
 ## 📈 Activity
 
-<!-- Snake: push workflow ke baad yeh line uncomment kar dena -->
+<!-- Snake: workflow run ke baad yeh line uncomment kar dena -->
 <!-- <img alt="Snake animation" src="https://raw.githubusercontent.com/UmarAnayat/UmarAnayat/output/github-contribution-grid-snake-dark.svg" /> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmarAnayat&bg_color=0d1117&color=55AFD2&line=55AFD2&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmarAnayat&theme=github_dark&utcOffset=5" alt="Productive Time" />
 </div>
 
 ---
